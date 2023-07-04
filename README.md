@@ -5,6 +5,6 @@ This project aims to create a portal that allows users to explore the seat allot
 - Frontend: HTML, CSS, JavaScript
 * Backend: Django
 + Database: SQLite
--Data Scraping: Beautiful Soup or Selenium
--Data Cleaning: NumPy, Pandas
--Data Visualization: Chart.js
+- Data Scraping: Beautiful Soup or Selenium
+- Data Cleaning: NumPy, Pandas
+- Data Visualization: Chart.js
