@@ -34,16 +34,17 @@ The home page of the JOSAA Analysis portal provides a user-friendly interface to
 ## Analyze institute wise cut-off trends
 - Institute trends highlight the trends of various programs offered by a particular institute over the years. This helps understand the popularity and perception of programs offered by the institute, and thus helps understand the demand for a particular program in the institute during the counselling process.
 - ![Screenshot (20)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/45d3feab-6bf4-4611-91fb-91580b6a90ce)
-![Screenshot (23)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/980fde77-d82e-4630-b851-4b5c4180720a)
+  
 - Upon sleecting the gender, branch and institute, user will get the cut-off analysis for each branch present at that IIT.
 
-![Screenshot (22)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1db046fe-c44c-4627-8282-c8143bf0a88a)
+- ![Screenshot (22)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1db046fe-c44c-4627-8282-c8143bf0a88a)
 
 ## Roundwise cut-off Analysis
 - Round trends highlight the general trend of closing ranks throughout the rounds of the counselling process. This helps understand the likely range of changes to the closing ranks throught the counselling proces.
 - Users can get the round wise analysis at each IIT by selecting the gender,seat type and branch. 
 - User can change the college name by clicking on "Go to iit-list" buttion.
-![Screenshot (23)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/c1860924-8c4b-4099-9349-3288990919ba)
+- ![Screenshot (25)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/3206dd19-d8fb-4e88-ace9-84a743db723e)
+
 
 
 
