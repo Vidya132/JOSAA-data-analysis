@@ -19,25 +19,21 @@ The home page of the JOSAA Analysis portal provides a user-friendly interface to
 - Analyze institute wise cut-off trends
 - Roundwise cut-off Analysis 
 
-![home](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1d752e47-ef2d-4b4c-bf66-77fc8817c09d)
+- ![home](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1d752e47-ef2d-4b4c-bf66-77fc8817c09d)
 
 ## View Institute wise cut-off list page
 - Upon clicking this option, a list of all IITs is shown along with their NIRF ranking(2023), Location and their established year. So the users can select specific institutes and explore the corresponding cut-off data.
-
-![iit list](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/f4f562e1-c93b-48a5-a114-4c321b296fe6)
+- ![iit list](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/f4f562e1-c93b-48a5-a114-4c321b296fe6)
  
   - ### For each IIT
       - By selecting a specific IIT, users can explore the trends and changes in the cut-off ranks throughout the various rounds of the seat allocation process over the years 2016 to 2022.
       - It can further narrow down their search by choosing specific programs offered by the selected institutes along with seat type and gender.
       - This feature helps users understand the cut-off trends for different programs in their preferred institutes.
-
-![first graph](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/5c411f78-ea17-4218-a0d6-9a8740ad78b5)
+      - ![first graph](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/5c411f78-ea17-4218-a0d6-9a8740ad78b5)
 
 ## Analysize institute wise cut-off trends
 - Institute trends highlight the trends of various programs offered by a particular institute over the years. This helps understand the popularity and perception of programs offered by the institute, and thus helps understand the demand for a particular program in the institute during the counselling process.
-
-
-![Screenshot (20)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/45d3feab-6bf4-4611-91fb-91580b6a90ce)
+- ![Screenshot (20)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/45d3feab-6bf4-4611-91fb-91580b6a90ce)
 
 - Upon sleecting the gender, branch and institute, user will get the cut-off analysis for each branch present at that IIT.
 
