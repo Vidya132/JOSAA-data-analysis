@@ -17,6 +17,25 @@ Then run the server locally on port 8000
 The home page of the JOSAA Analysis portal provides a user-friendly interface to explore and analyze the JOSAA seat allotment statistics. It offers several insightful sections to delve into the data and gain valuable information. Here's a breakdown of each section:
 - View Institute wise cut-off
 - Analyze institute wise cut-off trends
-- Roundwise cut-off Analysis -
+- Roundwise cut-off Analysis 
+![home](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1d752e47-ef2d-4b4c-bf66-77fc8817c09d)
 
- ![homepage](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/44bebb0e-7e78-4274-b5e2-cd176f9288fb)
+
+## View Institute wise cut-off list page
+- Upon clicking this option, a list of all IITs is shown along with their NIRF ranking(2023), Location and their established year. So the users can select specific institutes and explore the corresponding cut-off data.
+![iit list](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/f4f562e1-c93b-48a5-a114-4c321b296fe6)
+  - nested?!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
