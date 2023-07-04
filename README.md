@@ -42,9 +42,7 @@ The home page of the JOSAA Analysis portal provides a user-friendly interface to
 - Upon sleecting the gender, branch and institute, user will get the cut-off analysis for each branch present at that IIT.
 
 
-![Screenshot (21)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/441baf1e-571c-4fb6-882c-c114f12e466d)
-
-
+![Screenshot (22)](https://github.com/Vidya132/JOSAA-data-analysis/assets/95306028/1db046fe-c44c-4627-8282-c8143bf0a88a)
 
 
 
