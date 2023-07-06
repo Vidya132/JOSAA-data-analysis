@@ -10,8 +10,8 @@ This project aims to create a portal that allows users to explore the seat allot
 + Data Visualization: Chart.js
 
 ## Command to run the project locally
-python manage.py runserver
-Then run the server locally on port 8000
+- python manage.py runserver
+- Then run the server locally on port 8000
 
 ## Home page
 The home page of the JOSAA Analysis portal provides a user-friendly interface to explore and analyze the JOSAA seat allotment statistics. It offers several insightful sections to delve into the data and gain valuable information. Here's a breakdown of each section:
